@@ -1,0 +1,27 @@
+ body {
+    background-size: cover; 
+    background-position: center;
+ }
+
+.heading {
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.bg {
+   background-color:deepskyblue; 
+   border: solid 5px aquamarine;
+   color: azure;
+   border-radius: 20px;
+    font-size: 18px;
+    padding: 20px;
+    width: 60px;
+    text-align: center;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    border: 10px double dodgerblue;
+}
