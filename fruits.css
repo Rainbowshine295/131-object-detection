@@ -1,0 +1,16 @@
+body {
+    background-image: url("rarity.png");
+    background-size: cover; 
+    background-position: center;
+ }
+
+.heading {
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+canvas {
+    border-radius: 10px;
+    border: 10px dashed rebeccapurple;
+}
